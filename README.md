@@ -37,7 +37,7 @@
   <h3>Commits:</h3>
  <div align="center">
   
-  ![Snake animation](github.com/CassiooDEV/CassiooDEV/blob/main/.github/workflows/main.yml/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CassiooDEV/CassiooDEV/blob/output/github-contribution-grid-snake.svg)
    
 </div>
   
